@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👣
+热衷于架构思考，追求于人工智能领域 👣
