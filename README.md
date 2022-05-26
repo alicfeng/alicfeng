@@ -1,5 +1,5 @@
 ### Hi 👋 对我有意思吗😁 
-刚好我也在物色就业机会，不、是在寻求养家糊口~ 这是我的[ **简历** ](https://resume.samego.com)，感谢阅览简历！Thanks♪(･ω･)ﾉ 
+🚀🚀🚀 刚好我也在物色就业机会，不、是在寻求养家糊口~ 这是我的[ **简历** ](https://resume.samego.com)，感谢阅览简历！Thanks♪(･ω･)ﾉ 
 ![DG](https://user-images.githubusercontent.com/28264271/132943683-39d380e0-5579-4a2b-8071-5134d5d8e260.png)
 
 <!--
