@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-multiple-languages-plugin
+languages: ["en", "zh-CN"]
+default_lang: "en"
