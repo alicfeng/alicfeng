@@ -2,11 +2,20 @@
 
 ![DG](https://user-images.githubusercontent.com/28264271/132943683-39d380e0-5579-4a2b-8071-5134d5d8e260.png)
 
+
+Hi 👋
+
+Currently exploring new career opportunities. Skilled in AI training/inference platform development with Go/C++/Python, and hands-on experience in Kubernetes.
+
+Skills: AI training/inference platform architecture | Go/C++/Python | Kubernetes
+
+Resume link for details: [AlicFeng Resume](https://resume.samego.cn) ~ Looking forward to potential collaborations!
+
 <!--
 ### Hi 👋 对我有意思吗😁 
 🚀🚀🚀 刚好我也在物色就业机会，不、是在寻求养家糊口~ 这是我的[ **简历** ](https://resume.samego.com)，感谢阅览简历！Thanks♪(･ω･)ﾉ 
 
-考虑工作中，对我感兴趣的你是否正在招聘呢？这是我的[ **简历** ](https://resume.samego.com)，感谢阅览简历。
+考虑工作中，对我感兴趣的你是否正在招聘呢？这是我的[ **简历** ](https://resume.samego.cn)，感谢阅览简历。
 
 热衷于架构思考，追求于人工智能领域 👣
 
